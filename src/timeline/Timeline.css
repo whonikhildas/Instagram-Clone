@@ -1,0 +1,13 @@
+.timeline{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.timeline__left{
+    flex: 0.8;
+}
+.timeline__right{
+    position: fixed;
+    left: 72%;
+    width: 290px;
+}
