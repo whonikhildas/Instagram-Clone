@@ -40,7 +40,10 @@ function Post() {
 
 
     return(
-        <>{posts.map((post)=>(
+        <>
+               
+        
+        {posts.map((post)=>(
         <div className='post' key={post.id}>
             <div className='post__header'>
                 <div className='post__author'>
