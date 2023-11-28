@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/whonikhildas/Instagram-Clone/static/css/main.3c7d10d1.css",
-    "main.js": "/whonikhildas/Instagram-Clone/static/js/main.d47ac44e.js",
-    "static/media/sf-pro-display_regular.ttf": "/whonikhildas/Instagram-Clone/static/media/sf-pro-display_regular.0b3401aed7002c987e40.ttf",
-    "index.html": "/whonikhildas/Instagram-Clone/index.html",
-    "main.3c7d10d1.css.map": "/whonikhildas/Instagram-Clone/static/css/main.3c7d10d1.css.map",
-    "main.d47ac44e.js.map": "/whonikhildas/Instagram-Clone/static/js/main.d47ac44e.js.map"
+    "main.css": "/Instagram-Clone/static/css/main.aa8218c8.css",
+    "main.js": "/Instagram-Clone/static/js/main.025b0de9.js",
+    "static/media/sf-pro-display_regular.ttf": "/Instagram-Clone/static/media/sf-pro-display_regular.0b3401aed7002c987e40.ttf",
+    "index.html": "/Instagram-Clone/index.html",
+    "main.aa8218c8.css.map": "/Instagram-Clone/static/css/main.aa8218c8.css.map",
+    "main.025b0de9.js.map": "/Instagram-Clone/static/js/main.025b0de9.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c7d10d1.css",
-    "static/js/main.d47ac44e.js"
+    "static/css/main.aa8218c8.css",
+    "static/js/main.025b0de9.js"
   ]
 }
