@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.e847bc42.css",
-    "main.js": "/static/js/main.eb4d1205.js",
-    "static/media/sf-pro-display_regular.ttf": "/static/media/sf-pro-display_regular.0b3401aed7002c987e40.ttf",
-    "index.html": "/index.html",
-    "main.e847bc42.css.map": "/static/css/main.e847bc42.css.map",
-    "main.eb4d1205.js.map": "/static/js/main.eb4d1205.js.map"
+    "main.css": "/whonikhildas/Instagram-Clone/static/css/main.3c7d10d1.css",
+    "main.js": "/whonikhildas/Instagram-Clone/static/js/main.d47ac44e.js",
+    "static/media/sf-pro-display_regular.ttf": "/whonikhildas/Instagram-Clone/static/media/sf-pro-display_regular.0b3401aed7002c987e40.ttf",
+    "index.html": "/whonikhildas/Instagram-Clone/index.html",
+    "main.3c7d10d1.css.map": "/whonikhildas/Instagram-Clone/static/css/main.3c7d10d1.css.map",
+    "main.d47ac44e.js.map": "/whonikhildas/Instagram-Clone/static/js/main.d47ac44e.js.map"
   },
   "entrypoints": [
-    "static/css/main.e847bc42.css",
-    "static/js/main.eb4d1205.js"
+    "static/css/main.3c7d10d1.css",
+    "static/js/main.d47ac44e.js"
   ]
 }
