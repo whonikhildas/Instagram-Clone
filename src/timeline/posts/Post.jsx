@@ -7,6 +7,7 @@ import ChatBubbleOutlineRoundedIcon from '@mui/icons-material/ChatBubbleOutlineR
 import TelegramIcon from '@mui/icons-material/Telegram';
 import BookmarkBorderIcon from '@mui/icons-material/BookmarkBorder';
 import postObj from './Postobj';
+import Story from '../story/Story';
 
 function Post() {
 //     const[liked, setLiked]= useState(false);
@@ -41,7 +42,7 @@ function Post() {
 
     return(
         <>
-               
+           <Story/>    
         
         {posts.map((post)=>(
         <div className='post' key={post.id}>
